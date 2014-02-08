@@ -1,4 +1,3 @@
-class function():
     def menu():
         print 'Weclome'
         print 'Choose operation:'
@@ -24,6 +23,9 @@ class function():
             x=x=raw_input("First Number:")
             y=raw_input("Second Number: ")
             print x "/" y "=" x/y
+            print 'ere it is'
+
+    
 
             
 
